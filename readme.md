@@ -14,4 +14,12 @@ Convertirse en la fuente líder en la lucha contra la desinformación, enfocada 
 
 ---
 
+## Enlaces
+
+- [Presentación](https://docs.google.com/presentation/d/1exNRTIUDl2MvkzlMKNybWika9kWAv_p1S7l9h6GqjoQ/edit?usp=sharing)
+- [Main.ipynb](https://github.com/adrianbenitezrueda/first-project-data/blob/main/main.ipynb)
+- [Functions.py](https://github.com/adrianbenitezrueda/first-project-data/blob/main/functions.py)
+
+---
+
 ¡Únete a nuestra misión y ayúdanos a crear un entorno digital más informado!
