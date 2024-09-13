@@ -18,7 +18,6 @@ Convertirse en la fuente líder en la lucha contra la desinformación, enfocada 
 
 Aquí puedes ver los gráficos generados durante el proyecto:
 
-- ![Gráfico 1](Gráficos/output.png)
 - ![Gráfico 2](Gráficos/output_1.png)
 - ![Gráfico 3](Gráficos/output_2.png)
 - ![Gráfico 4](Gráficos/output_3.png)
