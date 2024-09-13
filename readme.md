@@ -14,11 +14,28 @@ Convertirse en la fuente líder en la lucha contra la desinformación, enfocada 
 
 ---
 
+## Gráficos
+
+Aquí puedes ver los gráficos generados durante el proyecto:
+
+- ![Gráfico 1](Gráficos/output.png)
+- ![Gráfico 2](Gráficos/output_1.png)
+- ![Gráfico 3](Gráficos/output_2.png)
+- ![Gráfico 4](Gráficos/output_3.png)
+- ![Gráfico 5](Gráficos/output_4.png)
+- ![Gráfico 6](Gráficos/output_5.png)
+- ![Gráfico 7](Gráficos/output_6.png)
+- ![Gráfico 8](Gráficos/output_7.png)
+- ![Gráfico 9](Gráficos/output_8.png)
+
+---
+
 ## Enlaces
 
 - [Presentación](https://docs.google.com/presentation/d/1exNRTIUDl2MvkzlMKNybWika9kWAv_p1S7l9h6GqjoQ/edit?usp=sharing)
-- [Main.ipynb](https://github.com/adrianbenitezrueda/first-project-data/blob/main/main.ipynb)
+- [Main Notebook](https://github.com/adrianbenitezrueda/first-project-data/blob/main/main.ipynb)
 - [Functions.py](https://github.com/adrianbenitezrueda/first-project-data/blob/main/functions.py)
+- [Organización en Trello](https://trello.com/invite/b/66ded28d66385a3e05e905b5/ATTI9ea3af005db711fdf700621a07160ba7CB24337F/first-project)
 
 ---
 
