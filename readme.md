@@ -2,6 +2,17 @@
 
 ![Bob Esponja gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JuMHhrcTN5ZXN4Y3E3djhobDRoaW1qbThxY3h5Ymd2Ym12Nnk4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SKGo6OYe24EBG/giphy.gif)
 
+---
+
+## Miembros del Proyecto
+
+| Nombre             | Background                          | Contacto                          |
+|--------------------|-------------------------------------|-----------------------------------|
+| **Josemi Sánchez** | ADE y RRHH, futuro Data Analyst      | ✉️ josemiguel.sanchez4@gmail.com  |
+| **Adrián Benítez** | Diseño gráfico, futuro Data Analyst  | [LinkedIn](https://www.linkedin.com/in/adrián-benítez-rueda-10102565/) |
+
+---
+
 ## Descripción del Proyecto
 
 **DATA** es una plataforma digital dedicada a la verificación de información (**fact-checking**) que combate la desinformación con un enfoque juvenil y entretenido.
