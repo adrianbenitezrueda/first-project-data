@@ -1,6 +1,6 @@
 # DATA - Democracia para el Análisis Total de Asuntos
 
-![Bob Esponja gif](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
+![Bob Esponja gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JuMHhrcTN5ZXN4Y3E3djhobDRoaW1qbThxY3h5Ymd2Ym12Nnk4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SKGo6OYe24EBG/giphy.gif)
 
 ## Descripción del Proyecto
 
